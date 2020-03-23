@@ -1,0 +1,12 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 3vh;
+}
+
+.proxy-body {
+  width: 100%;
+  border: 1px solid black;
+  max-height: 50vh;
+  overflow-y: scroll;
+}

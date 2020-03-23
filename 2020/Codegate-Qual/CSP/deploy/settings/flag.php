@@ -1,0 +1,2 @@
+<?php
+$flag = "CODEGATE2020{SAMPLE_FLAG}";
